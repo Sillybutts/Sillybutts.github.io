@@ -29,11 +29,11 @@ repository: "Sillybutts/Sillybutts.github.io"
 teaser: /assets/images/default_teaser.png
 og_image: /assets/images/site-logo.png
 
-
-compress_html:
-  clippings: all
-  ignore:
-    envs: development  # disable compression in dev environment
+# HTML compression, disabled due to maybe causing some funkiness?
+# compress_html:
+#  clippings: all
+#  ignore:
+#    envs: development  # disable compression in dev environment
     
 
 # Build settings
