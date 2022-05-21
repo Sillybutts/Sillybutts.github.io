@@ -86,7 +86,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Sillybutts"
     - label: "RedBubble"
-      icon: "fab fa-fw fa-redbubble"
+      icon: "fab fa-fw fa-registered"
       url: "https://www.redbubble.com/people/Sillybutts/shop"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
@@ -95,7 +95,7 @@ author:
       icon: "fab fa-fw fa-reddit"
       url: "https://www.reddit.com/user/SillyTheGamer"
     - label: "Thingiverse"
-      icon: "fab fa-fw fa-thingiverse"
+      icon: "fab fa-fw fa-cube"
       url: "https://www.thingiverse.com/sillybutts/designs"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
@@ -107,7 +107,7 @@ author:
       icon: "fab fa-fw fa-patreon"
       url: "https://www.patreon.com/sillybutts"
     - label: "BuyMeACoffee"
-      icon: "fab fa-fw fa-BuyMeACoffee"
+      icon: "fab fa-fw fa-cup-togo"
       url: "https://www.buymeacoffee.com/sillybutts"
 
 footer:
@@ -119,7 +119,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Sillybutts"
     - label: "RedBubble"
-      icon: "fab fa-fw fa-redbubble"
+      icon: "fab fa-fw fa-registered"
       url: "https://www.redbubble.com/people/Sillybutts/shop"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
@@ -128,7 +128,7 @@ footer:
       icon: "fab fa-fw fa-reddit"
       url: "https://www.reddit.com/user/SillyTheGamer"
     - label: "Thingiverse"
-      icon: "fab fa-fw fa-thingiverse"
+      icon: "fab fa-fw fa-cube"
       url: "https://www.thingiverse.com/sillybutts/designs"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
@@ -140,7 +140,7 @@ footer:
       icon: "fab fa-fw fa-patreon"
       url: "https://www.patreon.com/sillybutts"
     - label: "BuyMeACoffee"
-      icon: "fab fa-fw fa-BuyMeACoffee"
+      icon: "fab fa-fw fa-cup-togo"
       url: "https://www.buymeacoffee.com/sillybutts"
 
 defaults:
