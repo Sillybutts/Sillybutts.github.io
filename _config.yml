@@ -26,6 +26,9 @@ search: true
 teaser: /assets/images/default_teaser.png
 
 
+og_image: /assets/images/site-logo.png
+
+
 compress_html:
   clippings: all
   ignore:
@@ -66,13 +69,13 @@ plugins:
   - jekyll-include-cache
 
 social:
-  type:  # Person or Organization (defaults to Person)
-  name:  # If the user or organization name differs from the site's name
+  type: person # Person or Organization (defaults to Person)
+  name: Sillybutts # If the user or organization name differs from the site's name
   links:
-    - "https://twitter.com/yourTwitter"
-    - "https://www.facebook.com/yourFacebook"
-    - "https://instagram.com/yourProfile"
-    - "https://www.linkedin.com/in/yourprofile"
+    - "https://github.com/Sillybutts"
+    - "https://www.youtube.com/c/Sillybutts/"
+    - "https://www.reddit.com/user/SillyTheGamer"
+    - "Discord: Sillybutts#5905"
 
 author:
   name   : "Sillybutts"
