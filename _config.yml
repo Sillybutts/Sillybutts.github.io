@@ -23,9 +23,10 @@ twitter_username:
 github_username: Sillybutts
 minimal_mistakes_skin: dark
 search: true
+
+repository: "Sillybutts/Sillybutts.github.io"
+
 teaser: /assets/images/default_teaser.png
-
-
 og_image: /assets/images/site-logo.png
 
 
