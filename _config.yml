@@ -23,6 +23,14 @@ twitter_username:
 github_username: Sillybutts
 minimal_mistakes_skin: dark
 search: true
+teaser: /assets/images/default_teaser.png
+
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment
+    
 
 # Build settings
 markdown: kramdown
@@ -31,7 +39,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -56,6 +64,15 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/yourTwitter"
+    - "https://www.facebook.com/yourFacebook"
+    - "https://instagram.com/yourProfile"
+    - "https://www.linkedin.com/in/yourprofile"
 
 author:
   name   : "Sillybutts"
@@ -134,10 +151,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
+      read_time: false
+      comments: false
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
