@@ -85,69 +85,43 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My name is Sillybutts (Silly for short), welcome to my site! <br> <br> I am an experienced 3d modeler, novice game modder and video editor, and a long time Reddit and Discord moderator."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://sillybutts.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Sillybutts"
+      
     - label: "RedBubble"
       icon: "fas fa-fw  fa-registered"
       url: "https://www.redbubble.com/people/Sillybutts/shop"
-    - label: "Discord"
+      
+    - label: "Discord Sillybutts#5905"
       icon: "fab fa-fw fa-discord"
-      url: "Sillybutts#5905"
+      
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit"
       url: "https://www.reddit.com/user/SillyTheGamer"
+      
     - label: "Thingiverse"
       icon: "fas fa-fw fa-cube"
       url: "https://www.thingiverse.com/sillybutts/designs"
+      
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/c/Sillybutts/"
+      
     - label: "Etsy"
       icon: "fab fa-fw fa-etsy"
       url: "https://www.etsy.com/shop/sillybuttsshop"
+      
     - label: "Patreon"
       icon: "fab fa-fw fa-patreon"
       url: "https://www.patreon.com/sillybutts"
+      
     - label: "BuyMeACoffee"
       icon: "fas fa-fw fa-mug-hot"
       url: "https://www.buymeacoffee.com/sillybutts"
 
 footer:
-    links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://sillybutts.github.io/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Sillybutts"
-    - label: "RedBubble"
-      icon: "fas fa-fw  fa-registered"
-      url: "https://www.redbubble.com/people/Sillybutts/shop"
-    - label: "Discord"
-      icon: "fab fa-fw fa-discord"
-      url: "Sillybutts#5905"
-    - label: "Reddit"
-      icon: "fab fa-fw fa-reddit"
-      url: "https://www.reddit.com/user/SillyTheGamer"
-    - label: "Thingiverse"
-      icon: "fas fa-fw fa-cube"
-      url: "https://www.thingiverse.com/sillybutts/designs"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/c/Sillybutts/"
-    - label: "Etsy"
-      icon: "fab fa-fw fa-etsy"
-      url: "https://www.etsy.com/shop/sillybuttsshop"
-    - label: "Patreon"
-      icon: "fab fa-fw fa-patreon"
-      url: "https://www.patreon.com/sillybutts"
-    - label: "BuyMeACoffee"
-      icon: "fas fa-fw fa-mug-hot"
-      url: "https://www.buymeacoffee.com/sillybutts"
+   
 
 defaults:
   # _posts
