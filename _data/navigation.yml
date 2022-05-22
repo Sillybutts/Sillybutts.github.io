@@ -5,6 +5,8 @@ main:
  #   url: /categories/
  # - title: "Tags"
  #   url: /tags/
+   - title: "Home"
+    url: /
   - title: "Foam Blasters"
     url: /blasters/
   - title: "Game Mods/Packs"
