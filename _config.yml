@@ -23,6 +23,8 @@ twitter_username:
 github_username: Sillybutts
 minimal_mistakes_skin: dark
 search: true
+atom_feed:
+  hide: true
 
 repository: "Sillybutts/Sillybutts.github.io"
 
