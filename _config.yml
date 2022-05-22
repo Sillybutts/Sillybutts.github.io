@@ -95,7 +95,7 @@ author:
 
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
-      url: "discordname"
+      url: "https://sillybutts.github.io/discordname/"
       
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit"
@@ -133,7 +133,7 @@ footer:
 
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
-      url: "discordname"
+      url: "https://sillybutts.github.io/discordname/"
       
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit"
