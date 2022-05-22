@@ -89,39 +89,73 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Sillybutts"
       
-    - label: "RedBubble"
-      icon: "fas fa-fw  fa-registered"
-      url: "https://www.redbubble.com/people/Sillybutts/shop"
-      
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/Sillybutts/"
+
     - label: "Discord Sillybutts#5905"
       icon: "fab fa-fw fa-discord"
       
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit"
       url: "https://www.reddit.com/user/SillyTheGamer"
-      
+
     - label: "Thingiverse"
       icon: "fas fa-fw fa-cube"
       url: "https://www.thingiverse.com/sillybutts/designs"
       
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/c/Sillybutts/"
-      
-    - label: "Etsy"
-      icon: "fab fa-fw fa-etsy"
-      url: "https://www.etsy.com/shop/sillybuttsshop"
+    - label: "RedBubble"
+      icon: "fas fa-fw  fa-registered"
+      url: "https://www.redbubble.com/people/Sillybutts/shop"
       
     - label: "Patreon"
       icon: "fab fa-fw fa-patreon"
       url: "https://www.patreon.com/sillybutts"
+      
+    - label: "Etsy"
+      icon: "fab fa-fw fa-etsy"
+      url: "https://www.etsy.com/shop/sillybuttsshop"
       
     - label: "BuyMeACoffee"
       icon: "fas fa-fw fa-mug-hot"
       url: "https://www.buymeacoffee.com/sillybutts"
 
 footer:
-   
+     links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Sillybutts"
+      
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/Sillybutts/"
+
+    - label: "Discord Sillybutts#5905"
+      icon: "fab fa-fw fa-discord"
+      
+    - label: "Reddit"
+      icon: "fab fa-fw fa-reddit"
+      url: "https://www.reddit.com/user/SillyTheGamer"
+
+    - label: "Thingiverse"
+      icon: "fas fa-fw fa-cube"
+      url: "https://www.thingiverse.com/sillybutts/designs"
+      
+    - label: "RedBubble"
+      icon: "fas fa-fw  fa-registered"
+      url: "https://www.redbubble.com/people/Sillybutts/shop"
+      
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
+      url: "https://www.patreon.com/sillybutts"
+      
+    - label: "Etsy"
+      icon: "fab fa-fw fa-etsy"
+      url: "https://www.etsy.com/shop/sillybuttsshop"
+      
+    - label: "BuyMeACoffee"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://www.buymeacoffee.com/sillybutts"
 
 defaults:
   # _posts
