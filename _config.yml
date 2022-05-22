@@ -99,7 +99,7 @@ author:
       icon: "fab fa-fw fa-reddit"
       url: "https://www.reddit.com/user/SillyTheGamer"
     - label: "Thingiverse"
-      icon: "fa-solid fa-cube"
+      icon: "fas fa-fw fa-cube"
       url: "https://www.thingiverse.com/sillybutts/designs"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
