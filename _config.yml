@@ -17,7 +17,7 @@ title: Sillybutts
 subtitle: A landing page for everything that I do!
 title_separator: |
 email:
-description: >- A place for everything to do with me, Sillybutts! Site links, files, blog posts, etc! # this means to ignore newlines until "baseurl:"
+description: A place for everything to do with me, Sillybutts! Site links, files, blog posts, etc! # this means to ignore newlines until "baseurl:"
 
 twitter_username: 
 github_username: Sillybutts
