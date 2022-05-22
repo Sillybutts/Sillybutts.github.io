@@ -93,7 +93,7 @@ author:
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/c/Sillybutts/"
 
-    - label: "Discord Sillybutts#5905"
+    - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "discordname"
       
@@ -131,7 +131,7 @@ footer:
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/c/Sillybutts/"
 
-    - label: "Discord Sillybutts#5905"
+    - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "discordname"
       
