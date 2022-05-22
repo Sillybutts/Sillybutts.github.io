@@ -81,8 +81,7 @@ social:
 author:
   name   : "Sillybutts"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My name is Sillybutts (Silly for short), welcome to my site! 
-  I am an experienced 3d modeler, novice game modder, novice video editor, Reddit and Discord moderator, and more!"
+  bio    : "My name is Sillybutts (Silly for short), welcome to my site! <br> I am an experienced 3d modeler, novice game modder, novice video editor, Reddit and Discord moderator, and more!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
