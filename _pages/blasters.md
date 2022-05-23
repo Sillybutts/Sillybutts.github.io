@@ -1,8 +1,13 @@
 ---
+title: Foam Blasters
+layout: collection
 permalink: /blasters/
-title: "Foam Blasters"
-layout: single
+collection: blasters
+entries_layout: grid
+classes: wide
 ---
+
+Sample document listing for the collection `_portfolio`.
 
 BLASTERS BLASTERS BLASTERS
 
