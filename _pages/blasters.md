@@ -1,7 +1,8 @@
 ---
 permalink: /blasters/
 title: "Foam Blasters"
-Layout: single
+layout: single
 ---
 
 BLASTERS BLASTERS BLASTERS
+
