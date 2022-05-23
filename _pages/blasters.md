@@ -1,5 +1,5 @@
 ---
-title: Foam Blasters
+title: "Foam Blasters"
 layout: collection
 permalink: /blasters/
 collection: blasters
@@ -8,4 +8,3 @@ classes: wide
 ---
 
 BLASTERS BLASTERS BLASTERS
-
