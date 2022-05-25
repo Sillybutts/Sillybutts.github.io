@@ -9,8 +9,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: https://github.com/Sillybutts/Sillybutts.github.io/blob/master/assets/images/Blaster%20Banner%20May%202022%20v1.png?raw=true
 excerpt: "Poop a doop shoop da woop"
- intro: 
-   - excerpt: 'peen ween tearing machine'
 feature_row:
   - image_path: https://github.com/Sillybutts/Sillybutts.github.io/blob/master/assets/images/Blaster%20Banner%20May%202022%20v1.png?raw=true
     alt: "Placeholder Alt"
