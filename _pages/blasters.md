@@ -14,7 +14,7 @@ excerpt: "Poop a doop shoop da woop"
 intro: 
   - excerpt: 'peen ween tearing machine'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/Blaster%20Banner%20May%202022%20v1.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"
     title: "Placeholder 1"
