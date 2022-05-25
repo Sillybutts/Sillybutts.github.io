@@ -50,8 +50,12 @@ feature_row:
 
 ---
 
-{% include feature_row %}
+THINGS THINGS THINGS
 
+THINGS THINGS THINGS
+THINGS THINGS THINGS
+
+{% include feature_row %}
 
 STUFF STUFF STUFF
 
