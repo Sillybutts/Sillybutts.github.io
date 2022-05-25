@@ -5,7 +5,7 @@ permalink: /blasters/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: https://github.com/Sillybutts/Sillybutts.github.io/blob/master/assets/images/Blaster%20Banner%20May%202022%20v1.png?raw=true
   actions:
     - label: "Learn More"
       url: "https://www.thingiverse.com/sillybutts/designs"
