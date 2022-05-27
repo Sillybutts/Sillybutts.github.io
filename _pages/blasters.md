@@ -57,7 +57,7 @@ THINGS THINGS THINGS
 
 {% include feature_row %}
 
-[![FLipkart](ttps://github.com/Sillybutts/Sillybutts.github.io/blob/master/assets/images/bannerminecraft.png?raw=true)](https://pencilbrony.tumblr.com/){:target="_blank"}
+[![FLipkart](https://github.com/Sillybutts/Sillybutts.github.io/blob/master/assets/images/bannerminecraft.png?raw=true)](https://pencilbrony.tumblr.com/){:target="_blank"}
 
 STUFF STUFF STUFF
 
